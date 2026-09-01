@@ -14,10 +14,6 @@ The objective of this project is to explore EV adoption patterns and understand 
 - Data Visualization
 - Data Analysis
 
-## 📌 Dashboard Preview
-
-![EV Analysis Dashboard](EV-Dashboard.png)
-
 ## 📈 Key Analysis
 
 The dashboard provides analysis of:
